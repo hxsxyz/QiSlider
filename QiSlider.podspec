@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "QiSlider"
-  s.version      = "0.0.3"
+  s.version      = "0.0.1"
   s.summary      = "This is the summary."
 
   s.description  = <<-DESC
@@ -24,7 +24,7 @@ This is the description.
 
   s.source       = { :git => "https://github.com/QiShare/QiSlider.git", :tag => "#{s.version}" }
 
-  s.source_files  = "QiSlider", "QiSlider/**/QiSlider.{h,m}"
+  s.source_files  = "QiSlider/QiSlider/*.{h,m}"
   s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"

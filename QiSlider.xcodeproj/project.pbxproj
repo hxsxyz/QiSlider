@@ -70,13 +70,21 @@
 				062E0C2021102EE50016AFB3 /* ViewController.m */,
 				062E0C3521104A620016AFB3 /* TestViewController.h */,
 				062E0C3621104A620016AFB3 /* TestViewController.m */,
-				062E0C3221102F090016AFB3 /* QiSlider.h */,
-				062E0C3321102F090016AFB3 /* QiSlider.m */,
+				0681FCF521D31D53009F7FD2 /* QiSlider */,
 				062E0C2221102EE50016AFB3 /* Main.storyboard */,
 				062E0C2521102EE70016AFB3 /* Assets.xcassets */,
 				062E0C2721102EE70016AFB3 /* LaunchScreen.storyboard */,
 				062E0C2A21102EE70016AFB3 /* Info.plist */,
 				062E0C2B21102EE70016AFB3 /* main.m */,
+			);
+			path = QiSlider;
+			sourceTree = "<group>";
+		};
+		0681FCF521D31D53009F7FD2 /* QiSlider */ = {
+			isa = PBXGroup;
+			children = (
+				062E0C3221102F090016AFB3 /* QiSlider.h */,
+				062E0C3321102F090016AFB3 /* QiSlider.m */,
 			);
 			path = QiSlider;
 			sourceTree = "<group>";
